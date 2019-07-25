@@ -1,0 +1,7 @@
+.square {
+    display: inline-block;
+    border-style: solid;
+    height: 80px;
+    width: 50px;
+    background-color: green;
+  }
